@@ -2,7 +2,7 @@
 
 I am a passionate recent graduate of Academy Of Learning Career College, where I acquired my Software and Web Development Diploma with Honours. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
-![Npretious]'s Stats(https://github-readme-stats.vercel.app/api?username=<Npretious>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Npretious's Stats](https://github-readme-stats.vercel.app/api?username=Npretious&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
