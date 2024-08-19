@@ -23,6 +23,7 @@ I am a passionate recent graduate of Academy Of Learning Career College, where I
 
 - 🌟 Completed Software and Development Diploma with Honours.
 - 🌟 Completed Responsive Web Design on FreeCodeCamp.
+- 🌟 Built www.evcocontracting.ca.
 
 
 ## 📬 Get in Touch
