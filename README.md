@@ -9,20 +9,18 @@ I am a passionate recent graduate of Academy Of Learning Career College, where I
 - 🔭 I recently completed my Software and Development Diploma with Honours.
 - ✍️ Former Content Writer at www.capperspicks.com
 
-## Tech Stack
-
 ## 🌱 Currently Exploring
 
-- 🚀 Python AI Machine Learning
+🚀 Python AI Machine Learning
   - Exploring the ins and outs of machine learning.
   - Currently building AI applications to predict sports games.
-  - Styling 
+    
  ## 🏆 Achievements
 
 - 🌟 Completed Software and Development Diploma with Honours.
 - 🌟 Completed Responsive Web Design on FreeCodeCamp.
 - 🌟 Completed www.evcocontracting.ca.
-- 🌟 Completed a fully functionally machine learning NFL AI Predictor application with dynamic gui.
+- 🌟 Completed a fully-functioning machine learning, NFL AI Predictor application, with an dynamic gui to boot.
 
 
 ## 📬 Get in Touch
