@@ -13,17 +13,16 @@ I am a passionate recent graduate of Academy Of Learning Career College, where I
 
 ## 🌱 Currently Exploring
 
-- 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of C# and ASP.NET.
-  - Navigating through the world of React page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Django, a powerful Python web framework.
-
+- 🚀 Python AI Machine Learning
+  - Exploring the ins and outs of machine learning.
+  - Currently building AI applications to predict sports games.
+  - Styling 
  ## 🏆 Achievements
 
 - 🌟 Completed Software and Development Diploma with Honours.
 - 🌟 Completed Responsive Web Design on FreeCodeCamp.
-- 🌟 Built www.evcocontracting.ca.
+- 🌟 Completed www.evcocontracting.ca.
+- 🌟 Completed a fully functionally machine learning NFL AI Predictor application with dynamic gui.
 
 
 ## 📬 Get in Touch
